@@ -1,0 +1,114 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first {
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/donation1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.mid {
+    text-align: center;
+}
+
+.font {
+    font-size: 80px;
+    padding-top: 10%;
+    color: white;
+}
+
+.font2 {
+    color: white;
+}
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 20px 50px;
+    color: white;
+}
+
+.mid2 {
+    text-align: center;
+}
+
+.donating-price {
+    display: flex;
+    justify-content: center;
+    gap: 0px 20px;
+    border-radius: 5px;
+}
+
+.donating-price h1 {
+    background-color: darkgrey;
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    color: black;
+}
+
+#pink {
+    background-color: pink;
+    border: 1px solid pink;
+}
+
+.mid3 {
+    text-align: center;
+}
+
+hr {
+    width: 20%;
+    margin-bottom: 30px;
+}
+
+.mid4 {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0px 50px;
+}
+
+.card1 {
+    background-color: aqua;
+    width: 300px;
+    padding: 20px;
+}
+
+.card2 {
+    background-color: aqua;
+    width: 300px;
+    padding: 20px;
+}
+
+.card3 {
+    background-color: aqua;
+    width: 300px;
+    padding: 45px;
+}
+
+.third {
+    display: flex;
+    margin-top: 50px;
+}
+
+.text {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.email {
+    margin-top: 60px;
+    background-color: lightgoldenrodyellow;
+    width: 700px;
+    padding: 80px;
+    margin: 0px auto;
+}
